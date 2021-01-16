@@ -25,7 +25,7 @@ SECRET_KEY = 'ynb=ndc@5s_gw31ja%(-lgekx1fvg17ukrsedylap((*8+9m+4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
