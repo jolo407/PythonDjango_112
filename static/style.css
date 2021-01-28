@@ -1,12 +1,8 @@
-body {
-    background-color: lightgreen;
-}
-
-header a{
+.navbar a{
     font-family: 'Yusei Magic', sans-serif;
     color: black;
     font-size: 20px;
-    padding: 8px;
+    padding: 2px;
 }
 
 .homepage h1 {
