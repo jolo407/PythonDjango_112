@@ -1,0 +1,37 @@
+body {
+    background-color: lightgreen;
+}
+
+header a{
+    font-family: 'Yusei Magic', sans-serif;
+    color: black;
+    font-size: 20px;
+    padding: 8px;
+}
+
+.homepage h1 {
+    font-size: 35px;
+    color: navy;
+    font-family: 'Yusei Magic', sans-serif;
+    text-align: center;
+}
+
+.about-me h1{
+    font-size: 35px;
+}
+
+.about-me {
+    font-family: 'Yusei Magic', sans-serif;
+    font-size: 20px;
+    color: navy;
+    text-align: center;
+    padding: 8px;
+}
+
+
+
+.about-me img{
+    text-align: center;
+    border: 2px solid brown;
+    border-radius: 5px;
+}
